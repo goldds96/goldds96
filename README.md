@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goldds96&theme=onedark)](https://github.com/goldds96/github-profile-trophy)
 
-[![commitcombo](http://commitcombo.com/theme?user=goldds96&theme=DeepOcean&v=1)](https://github.com/goldds96/CommitCombo)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={goldds96})](https://solved.ac/{goldds96})
