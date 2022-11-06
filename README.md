@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldds96)](https://solved.ac/goldds96/)
 
-[![CodeForces Profile](https://cf.leed.at?id={goldds96})](https://codeforces.com/profile/{goldds96})
+[![CodeForces Profile](https://cf.leed.at?id=goldds96)](https://codeforces.com/profile/goldds96)
