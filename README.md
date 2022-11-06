@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldds96)](https://github.com/goldds96/github-readme-stats)
+[![Goldds96's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldds96)](https://github.com/goldds96/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goldds96&theme=onedark)](https://github.com/goldds96/github-profile-trophy)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={goldds96})](https://solved.ac/{goldds96})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldds96)](https://solved.ac/goldds96/)
