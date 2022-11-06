@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=goldds96&theme=onedark)](https://github.com/goldds96/github-profile-trophy)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldds96)](https://solved.ac/goldds96/)
+
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldds96)](https://solved.ac/goldds96/)
 
