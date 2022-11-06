@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldds96)](https://github.com/goldds96/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=goldds96)](https://github.com/goldds96/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=goldds96&theme=onedark)](https://github.com/goldds96/github-profile-trophy)
 
+[![commitcombo](http://commitcombo.com/theme?user=goldds96&theme=DeepOcean&v=1)](https://github.com/goldds96/CommitCombo)
