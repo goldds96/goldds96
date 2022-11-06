@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=goldds96&theme=onedark)](https://github.com/goldds96/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goldds96)](https://solved.ac/goldds96/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-[![CodeForces Profile](https://cf.leed.at?id=goldds96@naver.com)](https://codeforces.com/profile/goldds96@naver.com/)
+[![CodeForces Profile](https://cf.leed.at?id=goldds96)](https://codeforces.com/profile/goldds96/)
